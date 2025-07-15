@@ -61,5 +61,12 @@ Downloaded Excel files are stored in the app’s Documents directory and shared 
 Backend is hosted on:
 🔗 https://nl2sql-api.onrender.com
 
+## 🔗 Backend
+
+This app connects to a FastAPI backend for NL2SQL processing.
+
+- API Repository: [nl2sql-api](https://github.com/kimleak/nl2sql-api)
+
+
 📄 License
 MIT License
