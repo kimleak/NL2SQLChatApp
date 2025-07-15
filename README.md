@@ -20,8 +20,7 @@ A simple iOS app that lets users ask natural language questions and get SQL quer
 
 | Chat & SQL Result | Download Button |
 |------------------|-----------------|
-| ![Chat](https://github.com/user-attachments/assets/3b6d9b7d-79fb-424e-a612-f882df75458c) 
-| ![Download](https://github.com/user-attachments/assets/fc703a58-2cc5-4bde-b29e-ac4722e6315a) |
+| ![Chat](https://github.com/user-attachments/assets/3b6d9b7d-79fb-424e-a612-f882df75458c) | ![Download](https://github.com/user-attachments/assets/fc703a58-2cc5-4bde-b29e-ac4722e6315a) |
 
 
 ## 🛠️ Setup Instructions
